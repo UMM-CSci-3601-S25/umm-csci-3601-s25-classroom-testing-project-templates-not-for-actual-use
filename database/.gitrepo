@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/ingydotnet/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/kklamberty/3601-database.git
+	branch = main
+	commit = 6b4e44d339613d364b88037db33f874996b16282
+	parent = e1db5561100b8c88c16952c74c7c14b30ef7b4b0
+	method = merge
+	cmdver = 0.4.9
